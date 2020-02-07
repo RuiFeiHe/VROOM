@@ -5,7 +5,7 @@ Course Project, CS 21120970 Mixed Reality, ZJU, 2019 Winter. Instructor: Hujun B
 
 ##  Demo
 
-![1581068545138](C:\Users\ruifei\AppData\Roaming\Typora\typora-user-images\1581068545138.png)
+![image](https://github.com/RuiFeiHe/VROOM/blob/master/img/VROOM.jpg)
 
 Watch on youtube: https://www.youtube.com/watch?v=lPWbokYvWAI&feature=youtu.be
 
